@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtobon
-- 👀 I’m interested in web and  javascript or phyton 
+- 👀 I’m interested to learn phyton 
 - 🌱 I’m currently learning digital marketing
-- 💞️ I’m looking to collaborate on web
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me matetobon@gmail.com
 
 <!---
